@@ -6,7 +6,7 @@ const multiply = require("../multiply");
 
 describe("Multiply", () => {
   it("Return 1 when multiplying 1 and 1", () => {
-    assertEqual(multiply(1, 1), 1);
+  assertEqual(multiply(1, 1), 1);
   });
 
   it("Return 4 when multiplying 2 and 2", () => {
