@@ -9,6 +9,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+    
     }
 }
 //"extends": "eslint:recommended",

@@ -22,7 +22,7 @@ describe("Multiply", () => {
   });
 
   it("Return 23 * 45 when multiplying 23 and 45", () => {
-    assertEqual(multiply(23, 45), 23 * 45);
+    assertEqual(multiply(23, 45), 1035);
   });
 
 });
