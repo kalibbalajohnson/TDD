@@ -1,5 +1,3 @@
-/* global describe */
-/* global it */
 
 const assert = require("chai").assert;
 const multiply = require("../multiply");
@@ -21,8 +19,8 @@ describe("Multiply", () => {
     assert.equal(multiply(4, 4), 16);
   });
 
-  it("Return 23 * 45 when multiplying 23 and 45", () => {
-    assert.equal(multiply(23, 45), 2 * 45);
+  it("Return 1035 when multiplying 23 and 45", () => {
+    assert.equal(multiply(23, 45),1035);
   });
 
 });

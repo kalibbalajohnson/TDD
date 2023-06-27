@@ -4,13 +4,12 @@
         "commonjs": true,
         "es2021": true
     },
-    "extends": "plugin:node/recommended",
+    "extends": "eslint:recommended",
     "parserOptions": {
         "ecmaVersion": "latest"
     },
     "rules": {
-    
+        "no-undef": "off"
     }
 }
 
-//"extends": "eslint:recommended",
