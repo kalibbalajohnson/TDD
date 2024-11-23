@@ -9,6 +9,7 @@ function multiply(a, b) {
   return result;
 }
 
+
 //  function multiply(a, b) {
 //   
 //       return a * b;
