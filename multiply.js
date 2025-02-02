@@ -1,4 +1,3 @@
-
 // Using a for loop for multiplication
 function multiply(a, b) {
 
