@@ -1,4 +1,5 @@
 // Using a for loop for multiplication
+
 function multiply(a, b) {
 
   let result = 0;
